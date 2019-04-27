@@ -10,7 +10,7 @@
 	</parent>
 	
   <groupId>br.com.tcc</groupId>
-  <artifactId>eureka-security-server-discovery</artifactId>
+  <artifactId>eureka-security-service-discovery</artifactId>
   <version>0.0.1-SNAPSHOT</version>
    <properties>
 		<java.version>1.8</java.version>
